@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sM3hsJvl/Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\datov\\Desktop\\LoginWithJsonApp\\LoginWithJsonApp\\LoginWithJsonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\datov\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
